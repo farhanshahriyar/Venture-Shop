@@ -31,7 +31,7 @@
 A fully functional, mobile-friendly, React-based e-commerce platform, complete with anonymous login, sign-in and sign-up, cart, wishlist, and more features. I used Firebase for all the aforementioned things, plus to store files, provide authentication for users, and store up-to-date product info.
 
 ## ⚙ How Does It Work? <a name="work"></a>
-Anyone who visits the site does so under a false identity (thanks to firebase auth for a lot of free features). Don't worry about losing any information you put in a shopping cart or wish list; it will be safely stored in the system. Register or sign in with Google (again, thanks to firebase auth), and all of this info will be synced to your account, so you can access it from any device.
+Anyone who visits the site does so under a false identity. Don't worry about losing any information you put in a shopping cart or wish list; it will be safely stored in the system. Register or sign in with Google, and all of this info will be synced to your account, so you can access it from any device.
 
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
