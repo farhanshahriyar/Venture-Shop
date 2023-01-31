@@ -22,7 +22,6 @@
 - [How Works](#work)
 - [Getting Started](#getting_started)
 - [Deployment](#deployment)
-- [Usage](#usage)
 - [Built Using](#built_using)
 - [Authors](#authors)
 
